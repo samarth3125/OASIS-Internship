@@ -35,3 +35,9 @@ A simple to-do list app that allows adding, completing, and removing tasks.
 1. Clone this repository:
    ```bash
    git clone https://github.com/samarth3125/OASIS-Internship.git
+
+![Admiration Page Screenshot](screenshots/admiration_page.png)
+![Calculator Screenshot](screenshots/calculator.png)
+![Login Screenshot](screenshots/login.png)
+![To-Do App Screenshot](screenshots/todo_app.png)
+
